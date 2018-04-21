@@ -1,5 +1,7 @@
 package hello;
 
+//Guilherme: Rotas Json
+//Rafael: Classes, atributos, variáveis
 
 import java.util.List;
 import java.util.LinkedList;
