@@ -6,6 +6,9 @@ import java.util.List;
 
 import com.google.gson.Gson;
 
+//Guilherme: Rotas Json
+//Rafael: Classes, atributos, variáveis
+
 public class Controller {
 	
 	private Model model;
