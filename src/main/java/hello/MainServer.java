@@ -2,6 +2,9 @@ package hello;
 
 import static spark.Spark.*;
 
+//Guilherme: Rotas Json
+//Rafael: Classes, atributos, variáveis
+
 
 public class MainServer {
 	
