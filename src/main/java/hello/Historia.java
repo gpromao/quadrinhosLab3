@@ -1,5 +1,8 @@
 package hello;
 
+//Guilherme: Rotas Json
+//Rafael: Classes, atributos, variáveis
+
 public class Historia {
 
 	private String titulo;
